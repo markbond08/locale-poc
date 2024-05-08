@@ -1,5 +1,8 @@
 {
-    "TestKey1": "C'est la clé de test 1",
-    "TestKey2": "C'est la deuxième clé de test",
-    "TestKey3 ": "Et c'est la troisième et dernière clé de test"
+  "HelloWorldLabel": "Bonjour le monde!",
+  "MyNewKey": "Test de l’ajout d’une nouvelle clé",
+  "SomeOtherKey ": "C'est juste une autre clé",
+  "TestKey1": "C'est la clé de test 1",
+  "TestKey2": "C'est la deuxième clé de test",
+  "TestKey3 ": "Et c'est la troisième et dernière clé de test"
 }
