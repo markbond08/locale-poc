@@ -1,0 +1,18 @@
+phrase:
+  project_id: 5898ea4e5ee7ee99a5d214b3f67283c9
+  push:
+    sources:
+    - file: ./<locale_name>/page1.json
+      params:
+        file_format: i18next_4
+    - file: ./<locale_name>/page2.json
+      params:
+        file_format: i18next_4
+  pull:
+    targets:
+    - file: ./<locale_name>/page1.json
+      params:
+        file_format: i18next_4
+    - file: ./<locale_name>/page2.json
+      params:
+        file_format: i18next_4
