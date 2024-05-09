@@ -1,8 +1,5 @@
 {
   "HelloWorldLabel": "Hello World!",
   "MyNewKey": "Testing adding a new Key",
-  "SomeOtherKey ": "This is just some other key",
-  "TestKey1": "Page 2 has a different value for TestKey1",
-  "TestKey2": "NZ has a different value for TestKey2",
-  "TestKey3 ": "And thus is the third and final tust key"
+  "SomeOtherKey ": "This is just some other key"
 }
