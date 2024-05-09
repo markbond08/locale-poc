@@ -5,14 +5,18 @@ phrase:
     - file: ./<locale_name>/page1.json
       params:
         file_format: i18next_4
+        tags: page1
     - file: ./<locale_name>/page2.json
       params:
         file_format: i18next_4
+        tags: page2
   pull:
     targets:
     - file: ./<locale_name>/page1.json
       params:
         file_format: i18next_4
+        tags: page1
     - file: ./<locale_name>/page2.json
       params:
         file_format: i18next_4
+        tags: page2
