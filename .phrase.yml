@@ -10,6 +10,10 @@ phrase:
       params:
         file_format: i18next_4
         tags: page2
+    - file: ./<locale_name>/page3.json
+      params:
+        file_format: i18next_4
+        tags: page3
   pull:
     targets:
     - file: ./<locale_name>/page1.json
@@ -20,3 +24,7 @@ phrase:
       params:
         file_format: i18next_4
         tags: page2
+    - file: ./<locale_name>/page3.json
+      params:
+        file_format: i18next_4
+        tags: page3
