@@ -14,6 +14,10 @@ phrase:
       params:
         file_format: i18next_4
         tags: page3
+    - file: ./<locale_name>/newPage.json
+      params:
+        file_format: i18next_4
+        tags: newPage
   pull:
     targets:
     - file: ./<locale_name>/page1.json
@@ -28,3 +32,7 @@ phrase:
       params:
         file_format: i18next_4
         tags: page3
+    - file: ./<locale_name>/newPage.json
+      params:
+        file_format: i18next_4
+        tags: newPage
